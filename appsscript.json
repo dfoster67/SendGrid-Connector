@@ -1,0 +1,16 @@
+{
+  "timeZone": "GMT",
+  "dependencies": {
+  },
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "SendGrid Stats Connector - v1.0",
+    "logoUrl": "https://sendgrid.com/brand/sg-logo.png",
+    "company": "SendGrid - Built by inPhronesis",
+    "companyUrl": "https://invision.inphronesis.com/",
+    "addonUrl": "https://github.com/googledatastudio/example-connectors/tree/master/npm-downloads",
+    "supportUrl": "https://github.com/googledatastudio/example-connectors/issues",
+    "description": "This is a beta version of a SendGrid Stats connector. And is not supported by SendGrid",
+    "sources": ["SENDGRID"]
+  }
+}
